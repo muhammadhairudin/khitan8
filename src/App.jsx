@@ -273,7 +273,7 @@ function App() {
           {/* Poster Image - Mobile First */}
           <div className="mb-4 sm:mb-5 md:mb-6">
             <img 
-              src="/poster.jpg" 
+              src="public\poster.png" 
               alt="Poster Bakti Amal Khitan Masjid Al Hidayah Periode ke-8"
               className="w-full h-auto rounded-lg sm:rounded-xl shadow-lg object-cover"
               onError={(e) => {
